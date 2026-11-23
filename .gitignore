@@ -1,0 +1,28 @@
+
+.venv312/
+__pycache__/
+*.pyc
+
+# Virtual environments & caches
+venv/
+.venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datasets & archives (add your own dataset folder names below)
+data/
+dataset/
+datasets/
+*.zip
+*.tar.gz
+
+# Trained model weights & checkpoints
+*.h5
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.safetensors
+checkpoints/
+models/
